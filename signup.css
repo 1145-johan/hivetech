@@ -183,3 +183,14 @@ hr {
         margin: 0 0 0 4em;
     }
   }
+  .bottom {
+    position: relative;
+    top: 10vw;
+    left: 35vw;
+ 
+   }
+   .options a{
+    text-decoration: none;
+    color: black;
+
+  }
